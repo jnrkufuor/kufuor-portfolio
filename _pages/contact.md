@@ -5,7 +5,7 @@ permalink: /contact
 comments: false
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<form action="https://formspree.io/f/xaylgadg" method="POST">    
 <p class="mb-4"> Have some tips or comments for me? Please type your message below. I will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
