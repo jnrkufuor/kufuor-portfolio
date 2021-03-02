@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The purest forms of expression are imbued by what we see.
+title: The purest forms of expression are imbued with what we imagine.
 permalink: /about
 comments: false
 image: assets/images/me.jpg
