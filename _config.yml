@@ -1,7 +1,7 @@
 # Site
-name: "Portfolio"
-title: "Portfolio"
-description: "Ernest's Data Viz Portfolio"
+name: "DataViz By Ernest"
+title: "DataViz By Ernest"
+description: "Ernest's DataViz Portfolio"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
