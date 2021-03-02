@@ -1,0 +1,30 @@
+---
+layout: default
+title: Home
+---
+
+<br>
+<div>
+  <p><h5>Hi!</h5> My name is Ernest Kufuor. I am a designer with a keen interest in Applied Machine Learning and Software Engineering. My passion is really in the abstract: colors, graphics, lines … anything that speaks to me aesthetically. This portfolio contains some of my work for a course I am taking. My goal is to explore data visualization and  I hope to achieve this through this portfolio.
+</p>
+
+</div>
+
+<h6><a href="{{ site.baseurl }}/about"> Want to know more about me? </a></h6>
+<br>
+<h4> My Work </h4>
+<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    {% for post in paginator.posts %}
+        {% include postbox.html %}
+    {% endfor %}
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>

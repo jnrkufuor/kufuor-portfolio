@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio</title>
+    <description>Ernest's Data Viz Portfolio</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 02 Mar 2021 14:11:36 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Mar 2021 14:11:36 +0200</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>'What's your Genotype?', Should be a first date question!</title>
+        <description>&lt;p&gt;A genotype is the entire genetic constitution of an individual with reference to a single trait, set of traits, or an entire complex of traits.
+There are four hemoglobin genotypes (hemoglobin pairs/formations) in humans: AA, AS, SS and AC.&lt;/p&gt;
+
+&lt;p&gt;SS and AC are the abnormal genotypes or the sickle cells.&lt;/p&gt;
+
+&lt;p&gt;Sickle cell disease(SCD) is an inherited blood disorder. It is marked by flawed hemoglobin. That’s the protein in red blood cells that carries oxygen to the tissues of the body. So, sickle cell disease interferes with the delivery of oxygen to the tissues.&lt;/p&gt;
+
+&lt;p&gt;Individuals with sickle cells experience severe pains in body parts where oxygen flow is compromised due to blockage in the blood vessels.&lt;/p&gt;
+
+&lt;p&gt;Sickle cell is an inherited disease caused by a defect in a gene.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A person will be born with sickle cell disease only if two genes are inherited—one from the mother and one from the father.&lt;/li&gt;
+  &lt;li&gt;A person who inherits just one gene is healthy and said to be a “carrier” of the disease. A carrier has an increased chance of having a child with sickle cell disease if he or she has a child with another carrier.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;outline-of-my-project&quot;&gt;Outline of my Project&lt;/h3&gt;
+
+&lt;h5 id=&quot;whats-the-situation&quot;&gt;What’s the situation?&lt;/h5&gt;
+&lt;p&gt;Blindly entering a partnership could lead to giving birth to a child with an SS hemoglobin genotype. Partners who may be SS and AS or AS and AS have the probability of giving birth to a child who may be sickle cell patient.&lt;/p&gt;
+&lt;h5 id=&quot;why-now&quot;&gt;Why now?&lt;/h5&gt;
+&lt;p&gt;SCD’s mortality rate, though reduced over the years, is quite high if not managed. The medical bills that accompany management it are fairly high making it a difficult diseases to outmaneuver through&lt;/p&gt;
+&lt;h5 id=&quot;whats-my-message&quot;&gt;What’s my message?&lt;/h5&gt;
+&lt;p&gt;Knowing each others genotype before getting into a serious relationship can prevent severe loss down the line.&lt;/p&gt;
+
+&lt;h3 id=&quot;initial-sketches&quot;&gt;Initial Sketches&lt;/h3&gt;
+&lt;p&gt;This initial sketch captures a top level view of the flow of information from start to end.
+&lt;br /&gt;&lt;img src=&quot;../assets/images/initial.jpg&quot; width=&quot;600&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;data&quot;&gt;Data&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdc.gov/ncbddd/sicklecell/data.html&quot;&gt;Centre for Disease Control and prevention&lt;/a&gt;
+This data would be primarily used to shed light on the distribution of sickle cell disease(SCD) patients and non-SCD patients.&lt;/p&gt;
+
+    &lt;p&gt;Supplementary Data: &lt;a href=&quot;http://www.scdcoalition.org/pdfs/ASH_Infographic.pdf&quot;&gt;Infographic&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/data/race_distribution_michigan_1997-2014.csv&quot;&gt;SCD Race Distribution Data&lt;/a&gt;
+This would be used to explain how sickle cell is distributed among different races to understand if there is a prevalence in any of the races.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/data/medical_costs_SDC_US.csv&quot;&gt;SCD Medical Costs Data&lt;/a&gt;
+This would be used to draw a side by side bar graph of the medical expenses of SCD patients.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/data/death_trend_US_SDC.csv&quot;&gt;SCD US Death Trend Data&lt;/a&gt;
+This would be used to create a line graph to understand the mortality rate of SCD patients over the years.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;medium&quot;&gt;Medium&lt;/h3&gt;
+&lt;p&gt;The project would go three three major stages:&lt;/p&gt;
+&lt;h5 id=&quot;brainstorming-and-prototyping&quot;&gt;Brainstorming and Prototyping&lt;/h5&gt;
+&lt;p&gt;The initial phases of the project would constitute paper sketches,testing, exploration and brainstorming. The goal here is to ideate on the best ways to present the data and then run it by users to check whether my representation is clear enough. Paper sketches would suffice in this phase.&lt;/p&gt;
+&lt;h5 id=&quot;building-the-graphs&quot;&gt;Building the Graphs&lt;/h5&gt;
+&lt;p&gt;Once robust solutions have been designed, the next phase is to build my graphs with the data at hand. I would use Tableau to build the graphs.&lt;/p&gt;
+&lt;h5 id=&quot;presentation&quot;&gt;Presentation&lt;/h5&gt;
+&lt;p&gt;This would be completed in Shorthand. My objective is to tell a story with my data and Shorthand offers a good functionality to achieve this.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Feb 2021 00:00:00 +0200</pubDate>
+        <link>/final_project_ErnestKufuor/</link>
+        <guid isPermaLink="true">/final_project_ErnestKufuor/</guid>
+        
+        
+        <category>dataviz</category>
+        
+      </item>
+    
+      <item>
+        <title>Highest Paid Athletes</title>
+        <description>&lt;h1 id=&quot;highest-paid-athletes-in-2017&quot;&gt;Highest Paid Athletes in 2017&lt;/h1&gt;
+&lt;p&gt;We often watch sports for recreational reasons. With so much passion imbued in sports, we go through a roller coaster of emotions when our teams win or lose or when a player we love moves from one team to another. In as much as we feel one with the team and entitled to explanations, we often overlook what really drives the industry - money. This chart looks at the highest paid players in the sports industry, looking at what percentage of their money comes from endorsements and their sports itself.&lt;/p&gt;
+
+&lt;p&gt;You can find the chart &lt;a href=&quot;https://www.mekkographics.com/the-worlds-highest-paid-athletes/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Below is the chart that was redesigned.
+&lt;br /&gt;&lt;img src=&quot;../assets/images/chart.png&quot; width=&quot;800&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;redesign-process&quot;&gt;Redesign Process&lt;/h3&gt;
+&lt;h5 id=&quot;initial-analysis&quot;&gt;Initial Analysis&lt;/h5&gt;
+&lt;p&gt;The first step was to look at the original chart and try and understand the information that was being portrayed. I tried to figure out what was being expressed and wrote down things I found confusing.
+I proceeded to understand exactly who the audience of this chart was for and then listed down some things I might change or do differently.&lt;/p&gt;
+
+&lt;p&gt;The main chart displays this information through a vertical bar graph. The height of each bar is the percentage of an athlete’s salary that comes from endorsement and the width of the bar depicts the total amount. Each bar is colored according to the player’s sport domain. The chart includes other things like the YOY Rank. I found the representation rather confusing and busy. Being that the chart itself just wanted to display the salaries of the highest paid players, I believe there were some areas of the chart that could be improved.&lt;/p&gt;
+
+&lt;h5 id=&quot;evaluation&quot;&gt;Evaluation&lt;/h5&gt;
+&lt;p&gt;After this I used a critique method to understand the effectiveness profile of the chart. It basically evaluates the chart on two fronts, from an emotive and informative point of view.
+Emotive factors look at:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Aesthetics&lt;/li&gt;
+  &lt;li&gt;Engagement&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Informative look at:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Completeness&lt;/li&gt;
+  &lt;li&gt;Usefulness&lt;/li&gt;
+  &lt;li&gt;Perceptibility&lt;/li&gt;
+  &lt;li&gt;Truthfulness&lt;/li&gt;
+  &lt;li&gt;Intuitiveness.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You can find the metric &lt;a href=&quot;http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I realised from critique method the chart, though slightly informative, lacked much in on the emotive side. It had the right information and the represented it well, however lables,data on the y-axis, added information and the choice of chart made it hard to process the information the chart attempted to explain.
+Hence I focused primarily on trying to remove clutter from the graph and improve it’s clarity by a few tweaks in what to display on the y-axis and in the chart used.&lt;/p&gt;
+
+&lt;h5 id=&quot;wireframing&quot;&gt;Wireframing&lt;/h5&gt;
+&lt;p&gt;After this, I proceeded to wire frame my ideas of what I thought would make clear exactly what the initial graph was trying to portray. I took the initial analysis I had done and decided to implement the things I said I would change. I took out a few things the initial chart had because I thought they were not integral to the chart’s expression of information.
+I did this on pen and paper. After a first iteration of my idea, I personally critiqued it and asked myself the same questions I did the main chart. I took that feedback and went into a second iteration and did the same with a third iteration.
+My process was built around, “Does it make sense to me first?”. You can find the initial iterations below:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prototype 1
+&lt;br /&gt;&lt;img src=&quot;../assets/images/sketch1.jpg&quot; width=&quot;600&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Refined Prototype
+&lt;br /&gt;&lt;img src=&quot;../assets/images/sketch2.jpg&quot; width=&quot;600&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;testing&quot;&gt;Testing&lt;/h5&gt;
+&lt;p&gt;I tested my prototypes with users to get their perspective on my redesign. I got very helpful comments to which I integrated into my final solution. Some of the comments resonated around:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;How my title related to my chart and the position of my title&lt;/li&gt;
+  &lt;li&gt;How I was comparing the two contributors of athlete’s pay(endorsements and sports)&lt;/li&gt;
+  &lt;li&gt;The intervals on the x-axis&lt;/li&gt;
+  &lt;li&gt;A lack of labeling on the y-axis&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Based off this feedback, I incorporated the insight I had gained from users and with a few tweaks, came up with a better final solution, which had more clarity.
+The feedback did not call for any major change in my visualization, however it did require me to change my labels and the intervals on my axis. I also slightly changed the way I was comparing the two categories.&lt;/p&gt;
+
+&lt;h5 id=&quot;final-solution&quot;&gt;Final Solution&lt;/h5&gt;
+
+&lt;p&gt;My final solution shows a graph of how endorsements and sports contribute to the salaries of highest paid athletes in 2017. I chose a horizontal stacked bar graph because it was more intuitive reading the athlete’s names and their respective salaries. The stacked bar helped properly display which parts of the total salary came from endorsements and sports. I took out the sports categorization and YOY Rank because they only added clutter to the chart.&lt;/p&gt;
+
+&lt;p&gt;Find the chart below:&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-chart&quot; data-src=&quot;visualisation/5356053&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sun, 21 Feb 2021 00:00:00 +0200</pubDate>
+        <link>/highest-paid-athletes/</link>
+        <guid isPermaLink="true">/highest-paid-athletes/</guid>
+        
+        
+        <category>dataviz</category>
+        
+      </item>
+    
+      <item>
+        <title>General Government Debt</title>
+        <description>&lt;p&gt;The Organisation for Economic Co-operation and Development is an intergovernmental economic organisation with 37 member countries, founded in 1961 to stimulate economic progress and world trade.
+General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance.
+More information on this can be found &lt;a href=&quot;https://data.oecd.org/gga/general-government-debt.htm&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Three different charts were used to visualize the data. Find them below.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-bar-chart&quot;&gt;1. Bar Chart&lt;/h4&gt;
+&lt;iframe src=&quot;https://data.oecd.org/chart/6gMB&quot; width=&quot;860&quot; height=&quot;645&quot; style=&quot;border: 0&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;&lt;a href=&quot;https://data.oecd.org/chart/6gMB&quot; target=&quot;_blank&quot;&gt;OECD Chart: General government debt, Total, % of GDP, Annual, 2019&lt;/a&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2grid-of-line-charts&quot;&gt;2.Grid of Line Charts&lt;/h4&gt;
+&lt;div class=&quot;flourish-embed flourish-chart&quot; data-src=&quot;visualisation/5290693&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;3heatmap&quot;&gt;3.Heatmap&lt;/h4&gt;
+&lt;div class=&quot;flourish-embed flourish-heatmap&quot; data-src=&quot;visualisation/5290977&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;notes&quot;&gt;Notes&lt;/h4&gt;
+
+&lt;h6 id=&quot;on-line-charts&quot;&gt;On Line Charts&lt;/h6&gt;
+&lt;p&gt;Line charts provide a means to view the evolution of several distinct data points as one continuous line. They are helpful in visualizing one data point relative to another, in the context of this work: the debt-to-equity ratio in relation to time. In using a grid of line charts, we can see how individual countries are performing and how things have progressed or declined over the years, allowing us to see a trend in the data.&lt;/p&gt;
+&lt;h6 id=&quot;on-heat-maps&quot;&gt;On Heat Maps&lt;/h6&gt;
+&lt;p&gt;Heat maps,on the other hand, present a means to compare data across categories. I used a heat map here because it provides a new dimension to view our data. Now we get to really see how sustainable the government finances of a country are and compare it with other countries and visualize the trend of liabilities for each country. In hindsight, the different categories being visualized here are, instead of distinct categories, a range between 0(the lowest) and 240(the highest).&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Feb 2021 00:00:00 +0200</pubDate>
+        <link>/government-debt/</link>
+        <guid isPermaLink="true">/government-debt/</guid>
+        
+        
+        <category>dataviz</category>
+        
+      </item>
+    
+  </channel>
+</rss>
