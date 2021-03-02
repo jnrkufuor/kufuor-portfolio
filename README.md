@@ -1,6 +1,6 @@
 
-# Hi
-Head over to my website to explore my portfolio
+# Welcome!
+Click the link below to head over to my portfolio
 
 [Click Here](https://jnrkufuor.github.io/kufuor-portfolio/)
 
