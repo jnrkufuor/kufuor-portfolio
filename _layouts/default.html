@@ -29,6 +29,7 @@ ga('create', '{{site.google_analytics}}', 'auto');
 ga('send', 'pageview');
 </script>
 {% endif %}
+<div style="display:hidden">
 <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
@@ -37,6 +38,7 @@ ga('send', 'pageview');
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+	</div>
 <body>
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
