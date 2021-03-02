@@ -4,7 +4,7 @@ title: "Portfolio"
 description: "Ernest's Data Viz Portfolio"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 
+baseurl: 'portfolio'
 google_analytics: ''
 disqus: ''
 mailchimp-list: 
