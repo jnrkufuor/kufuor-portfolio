@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Part 1] "'What's your Genotype?', Should be a first date question!"
+title:  Part 1 - "'What's your Genotype?', Should be a first date question!"
 author: Ernest
 categories: [ dataviz ]
 image: assets/images/6.jpg
