@@ -37,16 +37,19 @@ Knowing each other’s genotype before getting into a serious relationship can p
 ### Persona
 My personas were conceptual constructs of how I viewed my users. They really helped me shape the format and delivery of my story. They also helped me figure out the demographic of people to reach out to for user interviews. The key areas for me while creating my personas were their knowledge scope, means of attaining information and their relationship status. You can find my personas below:
 
-- Henry Yakubu
-- Ruth Cortez
+- [Henry Yakubu](../assets/data/Henry%20Yakubu.pdf)
+<br><img src="../assets/images/henry.png" width="700">
+- [Ruth Cortez](../assets/data/Ruth%20Cortez%20(2).pdf)
+<br><img src="../assets/images/ruth.png" width="700">
 
 
 ### Mood board
-My mood board helped me gather the necessary inspiration on how to present my data and how to structure it. You can find a link to my mood board here.
+My mood board helped me gather the necessary inspiration on how to present my data and how to structure it. You can find a link to my mood board [here](https://www.pinterest.com/jaykufuor/sickle-cell/).
 
 
 ### Storyboard
-After deliberation and prototyping, I developed my storyboard. My storyboard outlined the flow of my information from section to section. It was based off my outline and inspiration from mood board. A snippet of it can be found below. A link to the storyboard is here.
+After deliberation and prototyping, I developed my storyboard. My storyboard outlined the flow of my information from section to section. It was based off my outline and inspiration from mood board. A snippet of it can be found below. A link to the storyboard is [here](../assets/data/SCD%20-%20Storyboard.pdf)
+<br><img src="../assets/images/storyboard.png" width="700">
 
 ### User research and Interviews
 The next step was to assess how good my storyboard conveyed the story I was trying to tell. I came up with a user research protocol to help guide my research process. 
