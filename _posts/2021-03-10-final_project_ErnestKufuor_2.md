@@ -33,7 +33,6 @@ SCD's mortality rate, though reduced over the years, is quite high if not manage
 Knowing each other’s genotype before getting into a serious relationship can prevent severe loss down the line.
 
 
-
 ### Persona
 My personas were conceptual constructs of how I viewed my users. They really helped me shape the format and delivery of my story. They also helped me figure out the demographic of people to reach out to for user interviews. The key areas for me while creating my personas were their knowledge scope, means of attaining information and their relationship status. You can find my personas below:
 
