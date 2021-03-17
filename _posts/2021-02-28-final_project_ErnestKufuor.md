@@ -62,3 +62,5 @@ The initial phases of the project would constitute paper sketches,testing, explo
 Once robust solutions have been designed, the next phase is to build my graphs with the data at hand. I would use Tableau to build the graphs.
 ##### Presentation
 This would be completed in Shorthand. My objective is to tell a story with my data and Shorthand offers a good functionality to achieve this.
+
+[Check out the Final Piece of this Project on Shorthand](https://carnegiemellon.shorthandstories.com/do-you-know-your-sickle-cell-status-/index.html)
