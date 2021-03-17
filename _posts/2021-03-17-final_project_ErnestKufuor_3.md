@@ -79,3 +79,5 @@ From Part 2, I had a few changes that I wanted to go through based off user feed
 I think the biggest lesson I learnt from this process is that perceptions go a long way in design interpretation. I showed my final design to a few people for feedback and they clearly understood it. This was only possible by virtue of the interviews I had done with like-minded individuals. 
 
 I heard certain comments like, "Wow", "Oh snap" and the likes as they read the story and I realized they were in tune with it. A constant colour scheme helps the user stay in one mind and visualizations help the user see exactly what you want them to see. I found that to be very helpful.
+
+[Check out the Final Piece of this Project on Shorthand](https://carnegiemellon.shorthandstories.com/do-you-know-your-sickle-cell-status-/index.html)
