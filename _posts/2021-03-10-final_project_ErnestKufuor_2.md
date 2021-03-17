@@ -34,6 +34,8 @@ Knowing each other’s genotype before getting into a serious relationship can p
 
 [Check out the Part 1 of this Project](https://jnrkufuor.github.io/kufuor-portfolio/final_project_ErnestKufuor/)
 
+[Check out the Part 3 of this Project](https://jnrkufuor.github.io/kufuor-portfolio/final_project_ErnestKufuor_3/)
+
 ### Persona
 My personas were conceptual constructs of how I viewed my users. They really helped me shape the format and delivery of my story. They also helped me figure out the demographic of people to reach out to for user interviews. The key areas for me while creating my personas were their knowledge scope, means of attaining information and their relationship status. You can find my personas below:
 
