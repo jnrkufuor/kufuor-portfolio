@@ -32,6 +32,9 @@ SCD's mortality rate, though reduced over the years, is quite high if not manage
 ##### What's my message?
 Knowing each others genotype before getting into a serious relationship can prevent severe loss down the line.
 
+[Check out the Part 2 of this Project](https://jnrkufuor.github.io/kufuor-portfolio/final_project_ErnestKufuor_2/)
+
+[Check out the Part 3 of this Project](https://jnrkufuor.github.io/kufuor-portfolio/final_project_ErnestKufuor_3/)
 
 
 ### Initial Sketches
